@@ -26,18 +26,28 @@ Diving into this project has been an incredible experience. Here's a quick overv
 3. Seaborn
 4. NumPy
 
-![Screenshot 2024-06-17 161712](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/7696ab7f-2626-4523-9995-ce0caea0b043)
-![Screenshot 2024-06-17 164555](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/53aa8782-f062-4e55-9e79-948576b12154)
-![Screenshot 2024-06-17 162414](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/7392d7b9-689b-47e4-9b32-26689c732a83)
-![Screenshot 2024-06-17 162350](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/6fdd4c6a-5f5e-4e56-a6aa-81393664117b)
-![Screenshot 2024-06-17 162302](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/71170fed-44b8-4a38-8dc5-6d47d5d2485a)
-![Screenshot 2024-06-17 162241](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/a2abda4e-c7dc-487b-8bd1-9a53e66b04d0)
-![Screenshot 2024-06-17 162223](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/2aa5e229-0193-43e7-a4d8-bb29010169ff)
-![Screenshot 2024-06-17 162201](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/1180f6da-3f43-45d7-a2e0-632d5c9af81f)
-![Screenshot 2024-06-17 162141](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/d65bc524-8e79-40b0-8f6d-bc5546276186)
-![Screenshot 2024-06-17 162121](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/0a05783a-5072-41ca-bbce-09ba724ababb)
-![Screenshot 2024-06-17 162039](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/5b4716bf-39a3-40e6-becc-1aa2e7f85d83)
-![Screenshot 2024-06-17 161900](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/f3081a55-9550-4b1f-b776-82842b5d3b28)
-![Screenshot 2024-06-17 161836](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/257802cc-e4ea-4c28-b812-357a14631c1f)
+![Screenshot 2024-06-17 161712](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/d6d411a5-f28b-4023-8b50-bf1ad3ae6524)
 
+![Screenshot 2024-06-17 161836](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/be173412-ad41-40b7-a583-dd0507c4539e)
 
+![Screenshot 2024-06-17 161900](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/e3e90616-571a-4595-937f-005b7c8d91d3)
+
+![Screenshot 2024-06-17 162039](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/dfa90653-7a41-4c47-ab5e-a124bdc6d289)
+
+![Screenshot 2024-06-17 162121](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/49a88d58-a8c5-4080-b77b-96733078a410)
+
+![Screenshot 2024-06-17 162141](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/dfe9bf8f-6ef5-4f63-83fc-24f233628c4c)
+
+![Screenshot 2024-06-17 162201](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/90221188-20d7-4ccd-ba46-697e0985d1cf)
+
+![Screenshot 2024-06-17 162223](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/92c561e5-8356-4da7-be64-6028624eed57)
+
+![Screenshot 2024-06-17 162241](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/e0aee906-04cd-424a-8b08-caf79f498e48)
+
+![Screenshot 2024-06-17 162302](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/92daa47b-e7dc-4d78-b03f-12e8eb2afc97)
+
+![Screenshot 2024-06-17 162350](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/b12fa0b3-7b16-49d0-9619-ea73ff61e05b)
+
+![Screenshot 2024-06-17 162414](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/1f63d598-0240-4415-972f-3f00f48d309b)
+
+![Screenshot 2024-06-17 164555](https://github.com/SubhoD003/Company-Annual-Sales-Analysis/assets/156295781/89e892a8-aee8-4f8b-85e9-a382d5b11541)
